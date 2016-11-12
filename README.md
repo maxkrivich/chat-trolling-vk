@@ -1,6 +1,8 @@
 # Chat Trolling VK
 > If you like trolling people in VK, use this script! =)
+
 ***
+
 ### Usage
 ```sh
 $ ./chat_trolling.py -u <user_id> -p <peer_id> -t <access_token> 
@@ -8,7 +10,9 @@ $ ./chat_trolling.py -u <user_id> -p <peer_id> -t <access_token>
 ###### stop: Ctrl + C
 
 ### Requirements
+
 * requests 
+
 ### Installing
 ```sh
 $ pip install requests
