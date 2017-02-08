@@ -5,22 +5,29 @@
 
 ### Usage
 ```sh
-$ ./chat_trolling.py -u <user_id> -p <peer_id> -t <access_token> 
+$ ./chat_prolling.py -e <email> -p <password> -h <help>
 ```
 ###### stop: Ctrl + C
 
 ### Requirements
 
-* requests 
+* requests
+* HTMLParser
+* getpass
 
 ### Installing
 ```sh
 $ pip install requests
+$ pip install HTMLParser
+$ pip install getpass
 ```
 *** 
 ### Screen-shots
-![SS1](https://cloud.githubusercontent.com/assets/12199867/20237791/afb3f6f8-a8e4-11e6-8ed0-5718fcd20bdf.png)
-![SS2](https://cloud.githubusercontent.com/assets/12199867/20237792/afd20968-a8e4-11e6-82e9-6b2134baf266.png)
+![SS1](https://cloud.githubusercontent.com/assets/12199867/22732913/a15f52d8-edf8-11e6-87af-5fd5efc99449.png)
+
+
+If you find bugs or have suggestions about improving the module, don't hesitate to contact me.
+
 License
 ----
 
