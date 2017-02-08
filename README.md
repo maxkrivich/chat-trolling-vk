@@ -5,7 +5,7 @@
 
 ### Usage
 ```sh
-$ ./chat_prolling.py -e <email> -p <password> -h <help>
+$ python3 chat_prolling.py -e <email> -p <password> -h <help>
 ```
 ###### stop: Ctrl + C
 
